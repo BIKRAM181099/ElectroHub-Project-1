@@ -23,7 +23,7 @@ To analyze and visualize Electrohub’s business performance using interactive d
 
 ## 📝 Author
 **Bikram Rudrapaul**  
-[LinkedIn Profile](www.linkedin.com/in/bikram-rudrapaul)
+[LinkedIn Profile](https://www.linkedin.com/in/bikram-rudrapaul/)
 
 ---
 
